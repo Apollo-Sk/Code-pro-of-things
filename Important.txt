@@ -1,0 +1,10 @@
+C:\Users\Tulba\AppData\Local\GitHubDesktop\bin
+C:\Users\Tulba\AppData\Local\GitHubDesktop\app-3.5.6\resources\app\git\cmd
+
+
+git clone https://github.com/Apollo-Sk/Code-pro-of-things.git
+cd Code-pro-of-things
+ls
+cp file.py /home/user/Documents/
+
+scp -r C:\Users\Tulba\Downloads\files (1) user@10.83.150.161:~/

@@ -9,7 +9,7 @@ def match_words(words):
                 counter +=1
     return counter
 
-print(match_words(["abc","121","long","tat","cbc"]))
+print(match_words(["abc","21","long","tat","cbc"]))
 
 
 
